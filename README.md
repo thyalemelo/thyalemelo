@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Thyale Carolina 👋
 
-<!--
-**thyalemelo/thyalemelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Civil Engineer → Data Analyst | Based in Brazil | Open to Remote Opportunities & Relocation to London
 
-Here are some ideas to get you started:
+I'm a Civil Engineer with 7+ years of experience in large-scale project management, cost control and strategic KPI analysis, transitioning into Data Analytics. I combine deep domain expertise in construction and infrastructure with a growing technical skill set in data tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- **Data Visualisation:** Power BI (in progress)
+- **Spreadsheets:** Microsoft Excel (Advanced)
+- **Domains:** Construction · Infrastructure · Project Finance · Cost Control
+
+---
+
+## 🎓 Education
+
+- MBA in Technology for Business: AI, Data Science & Big Data — PUC-RS (2025)
+- Executive MBA in Cost Management & Engineering — IBEC (2017)
+- Bachelor's Degree in Civil Engineering — UNIFACS (2014)
+
+---
+
+## 📂 Projects
+
+*Coming soon — Power BI dashboards focused on construction and infrastructure data*
+
+---
+
+## 🌍 Languages
+
+- Portuguese (Native)
+- English (Advanced)
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/thyalemelo)
